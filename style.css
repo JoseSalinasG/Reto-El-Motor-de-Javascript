@@ -1,0 +1,38 @@
+*{
+    text-align: center;
+    font-family: sans-serif;
+}
+
+header{
+    background-color:  #4cac54 ;
+    color: white;
+    padding: 2rem;
+}
+
+main{
+    padding-top: 2rem;
+}
+
+.fotos{
+    height: 300px;
+    border-radius: 10px ;
+}
+button{
+    margin-top: 2rem;
+    padding: .5rem;
+    font-size: 20px;
+    background-color: #4cac54;
+    color: white;
+    border-radius: 10px;
+    border: none;
+    cursor: pointer;
+}
+
+footer{
+    background-color:  #333334;
+    color: white;
+    padding: 1rem;
+    bottom: 0%;
+    position: fixed;
+    width: 100%;
+}
